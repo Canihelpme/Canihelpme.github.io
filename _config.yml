@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Donghyun Shin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I hope you can solve **error** message with my Post"
+  location         : "Seoul"
+  email            : "shindh0429@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
